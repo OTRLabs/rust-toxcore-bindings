@@ -1,3 +1,5 @@
 fn main() {
-    println!("Hello, world!");
+    cc::Build::new()
+        .file("c-toxcore/toxcore.c")
+        .compile("toxcore");
 }

@@ -1,0 +1,14 @@
+/home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/deps/libclang_sys-3b3787e606fe0068.rmeta: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/support.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/link.rs /home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/build/clang-sys-a115af39315d0a28/out/macros.rs /home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/build/clang-sys-a115af39315d0a28/out/common.rs /home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/build/clang-sys-a115af39315d0a28/out/dynamic.rs
+
+/home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/deps/libclang_sys-3b3787e606fe0068.rlib: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/support.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/link.rs /home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/build/clang-sys-a115af39315d0a28/out/macros.rs /home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/build/clang-sys-a115af39315d0a28/out/common.rs /home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/build/clang-sys-a115af39315d0a28/out/dynamic.rs
+
+/home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/deps/clang_sys-3b3787e606fe0068.d: /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/lib.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/support.rs /home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/link.rs /home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/build/clang-sys-a115af39315d0a28/out/macros.rs /home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/build/clang-sys-a115af39315d0a28/out/common.rs /home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/build/clang-sys-a115af39315d0a28/out/dynamic.rs
+
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/lib.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/support.rs:
+/home/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.8.1/src/link.rs:
+/home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/build/clang-sys-a115af39315d0a28/out/macros.rs:
+/home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/build/clang-sys-a115af39315d0a28/out/common.rs:
+/home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/build/clang-sys-a115af39315d0a28/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/home/user/rust-toxcore-bindings/rust-toxcore-bindings/target/debug/build/clang-sys-a115af39315d0a28/out
